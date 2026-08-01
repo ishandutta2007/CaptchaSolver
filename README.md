@@ -11,6 +11,9 @@ Using Javascript and [YOLO DARKNET](https://pjreddie.com/darknet/yolo/) neuronal
 * filejoker.net
 * depositfiles.com / dfiles.eu
 
+## Installation on your NAS or Server
+Check out this Repo: https://github.com/cracker0dks/captchaSolverRemote
+
 ## Installation Windows
 1. Download the latest standalone zip: [win](https://github.com/cracker0dks/CaptchaSolver/releases/download/v2.1.1/CaptchaSolver-v2.1.1_standalone_win.zip.zip)
 2. Extract the "JDownloader 2.0" content in your current JD2 folder
